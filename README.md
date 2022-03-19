@@ -107,8 +107,6 @@ Download Resume
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragj05&" alt="anuragj05" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuragj05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragj05" /> </p>
-
 
 <h3 align='center'>Connect with me and support me by starring ⭐ some of my repositories</h2>
 <p align="center">
