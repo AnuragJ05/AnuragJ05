@@ -42,6 +42,9 @@ Download Resume
 
 <h5 align="center">Framework</h5>
 <p align="center">
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+</a>
 <a href="https://robotframework.org" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="pytest" width="40" height="40"/>
 </a>
