@@ -3,7 +3,7 @@
 <h3 align="center">Optimism is an occupational hazard of programming: feedback is the treatment</h3>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1jWLwPIElMxdl00yOKo_OiOpB7Z1GzTHf/view?usp=sharing" target="_blank" rel="noreferrer">
+<a href="https://drive.google.com/file/d/12Yc9ZpJuN9Du52EQeZEvy3HBb1oFU6Vj/view?usp=sharing" target="_blank" rel="noreferrer">
 Download Resume
 </a>
 </p>
