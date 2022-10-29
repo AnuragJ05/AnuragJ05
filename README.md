@@ -96,14 +96,6 @@
 </a>
 </p>
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragj05&show_icons=true&locale=en&layout=compact" alt="anuragj05" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragj05&show_icons=true&locale=en" alt="anuragj05" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragj05&" alt="anuragj05" /></p>
-
-
 <h3 align='center'>Connect with me and support me by starring ⭐ some of my repositories</h2>
 <p align="center">
 <a href="https://linkedin.com/in/anuragjain05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragjain05" height="30" width="40" /></a>
