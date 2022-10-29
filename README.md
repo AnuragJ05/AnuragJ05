@@ -2,12 +2,6 @@
 <h2 align="center">"Ambitious software engineer | Passionate Graphics designer"</h2>
 <h3 align="center">Optimism is an occupational hazard of programming: feedback is the treatment</h3>
 
-<p align="center">
-<a href="https://drive.google.com/file/d/1bNmRbPcA54pOm2qvBnOj0VmbKeA6EeAd/view?usp=sharing" target="_blank" rel="noreferrer">
-Download Resume
-</a>
-</p>
-
 <h3 align="center">Technology Stack</h3>
 
 <h5 align="center">Programming languages</h5>
