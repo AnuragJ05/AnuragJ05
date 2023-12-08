@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Jain</h1>
-<h2 align="center">"Ambitious software engineer | Passionate Graphics designer"</h2>
+<h2 align="center">"Ambitious software engineer"</h2>
 <h3 align="center">Optimism is an occupational hazard of programming: feedback is the treatment</h3>
 
 <h3 align="center">Technology Stack</h3>
