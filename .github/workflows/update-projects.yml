@@ -1,6 +1,10 @@
 name: Update GitHub Projects
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-projects.yml'
   schedule:
     - cron: '0 6 * * 1'
   workflow_dispatch:
@@ -19,36 +23,66 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          python - <<'PY'
-          import json, os, subprocess
+          python <<'PY'
+          import json
+          import subprocess
+
           username = "AnuragJ05"
-          result = subprocess.run([
-              "gh", "api", f"users/{username}/repos?per_page=100&sort=updated"
-          ], capture_output=True, text=True, check=True)
-          repos = json.loads(result.stdout)
+          result = subprocess.run(
+              ["gh", "api", "--paginate", f"users/{username}/repos?per_page=100&sort=updated"],
+              capture_output=True,
+              text=True,
+              check=True,
+          )
+
+          # gh --paginate may return multiple JSON arrays; combine them safely.
+          repos = []
+          for line in result.stdout.splitlines():
+              if line.strip():
+                  try:
+                      value = json.loads(line)
+                      if isinstance(value, list):
+                          repos.extend(value)
+                  except json.JSONDecodeError:
+                      pass
+
           repos = [r for r in repos if not r.get("fork") and not r.get("archived")]
+          repos.sort(key=lambda r: r.get("updated_at") or "", reverse=True)
 
           rows = [
-              "| Project | Description | Tech Stack |",
-              "|---|---|---|"
+              "<!-- PROJECTS:START -->",
+              "_Automatically generated from my public GitHub repositories._",
+              "",
+              "| Project | Description | Language | Stars |",
+              "|---|---|---|---:|",
           ]
+
           for repo in repos:
-              name = repo["name"]
-              url = repo["html_url"]
-              description = (repo.get("description") or "Personal project / open-source work").replace("|", "\\|").replace("\n", " ")
+              name = repo.get("name", "Project")
+              url = repo.get("html_url", "")
+              description = (repo.get("description") or "Open-source / personal project").replace("|", "\\|").replace("\n", " ")
               language = repo.get("language") or "—"
-              topics = repo.get("topics") or []
-              tech = ", ".join(topics[:5]) if topics else language
-              rows.append(f"| [**{name}**]({url}) | {description} | {tech} |")
+              stars = repo.get("stargazers_count", 0)
+              rows.append(f"| [**{name}**]({url}) | {description} | {language} | ⭐ {stars} |")
+
+          rows.append("")
+          rows.append(f"_Showing {len(repos)} public repositories (excluding forks and archived repositories)._ ")
+          rows.append("")
+          rows.append("<!-- PROJECTS:END -->")
 
           path = "README.md"
           text = open(path, encoding="utf-8").read()
           start = "<!-- PROJECTS:START -->"
           end = "<!-- PROJECTS:END -->"
-          generated = start + "\n_This section is automatically updated from my public GitHub repositories._\n\n" + "\n".join(rows) + "\n\n" + end
+
+          if start not in text or end not in text:
+              raise SystemExit("PROJECTS markers are missing from README.md")
+
           before = text.split(start, 1)[0]
           after = text.split(end, 1)[1]
+          generated = "\n".join(rows)
           open(path, "w", encoding="utf-8").write(before + generated + after)
+          print(f"Generated project list with {len(repos)} repositories")
           PY
 
       - name: Commit changes
@@ -56,5 +90,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update project list"
-          git push
+          if git diff --cached --quiet; then
+            echo "No project changes detected."
+          else
+            git commit -m "chore: update project list"
+            git push
+          fi
