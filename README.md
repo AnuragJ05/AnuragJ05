@@ -6,8 +6,12 @@
 
 Building scalable backend systems, cloud platforms, data pipelines, and AI-powered solutions.
 
+📧 **Email:** [jainanurag424@gmail.com](mailto:jainanurag424@gmail.com)  
+🔗 **LinkedIn:** [anuragjain05](https://linkedin.com/in/anuragjain05)  
+💻 **GitHub:** [AnuragJ05](https://github.com/AnuragJ05)
+
 <a href="https://linkedin.com/in/anuragjain05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/AnuragJ05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:jainanurag424@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -51,32 +55,12 @@ Building scalable backend systems, cloud platforms, data pipelines, and AI-power
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 All My Projects
 
-| Project | Focus | Tech |
-|---|---|---|
-| **🤖 humanoid-agent-platform** | Agentic AI platform | AI / Agents |
-| **📄 PDF-Accessibility-Scanner** | Document accessibility analysis | Python / AI |
-| **💬 genkit-chat** | Generative AI application | GenKit / LLM |
-| **📊 Dataframe-Service** | Data processing service | Python |
-| **🔗 GRPC-Proto** | gRPC / service communication | Go / gRPC |
-| **✈️ Flight-Booking** | Backend application | Backend / APIs |
-| **🔗 url-shortener** | Scalable backend service | Go |
-| **🏗️ my-terraform-project** | Infrastructure as Code | Terraform |
-| **⚙️ my-ansible-project** | Configuration automation | Ansible |
-| **📈 python_airflow_examples** | Workflow orchestration | Python / Airflow |
+<!-- PROJECTS:START -->
+_This section is automatically updated from my public GitHub repositories._
 
----
-
-## 🚀 What I'm Exploring
-
-- **Agentic AI & LLM-powered applications**
-- **RAG and AI + enterprise data integration**
-- **Cloud-native AI platforms**
-- **Kubernetes & platform engineering**
-- **Production-grade Go microservices**
-- **Scalable data engineering on GCP**
-- **AI-assisted software engineering**
+<!-- PROJECTS:END -->
 
 ---
 
@@ -96,8 +80,21 @@ Building scalable backend systems, cloud platforms, data pipelines, and AI-power
 
 ---
 
+## 🚀 What I'm Exploring
+
+- **Agentic AI & LLM-powered applications**
+- **RAG and AI + enterprise data integration**
+- **Cloud-native AI platforms**
+- **Kubernetes & platform engineering**
+- **Production-grade Go microservices**
+- **Scalable data engineering on GCP**
+- **AI-assisted software engineering**
+
+---
+
 ## 🤝 Let's Connect
 
 I'm interested in building systems at the intersection of **software engineering, cloud, data, and AI** — especially where good architecture turns complex problems into reliable products.
 
-📫 **LinkedIn:** [anuragjain05](https://linkedin.com/in/anuragjain05)
+📧 **Email:** [jainanurag424@gmail.com](mailto:jainanurag424@gmail.com)  
+🔗 **LinkedIn:** [anuragjain05](https://linkedin.com/in/anuragjain05)
