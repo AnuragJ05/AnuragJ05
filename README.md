@@ -58,7 +58,53 @@ Building scalable backend systems, cloud platforms, data pipelines, and AI-power
 ## 🚀 All My Projects
 
 <!-- PROJECTS:START -->
-_This section is automatically updated from my public GitHub repositories._
+_Automatically generated from my public GitHub repositories._
+
+| Project | Description | Language | Stars |
+|---|---|---|---:|
+| [**AnuragJ05**](https://github.com/AnuragJ05/AnuragJ05) | Config files for my GitHub profile. | — | ⭐ 0 |
+| [**PDF-Accessibility-Scanner**](https://github.com/AnuragJ05/PDF-Accessibility-Scanner) | Open-source / personal project | Python | ⭐ 0 |
+| [**-humanoid-agent-platform**](https://github.com/AnuragJ05/-humanoid-agent-platform) | Open-source / personal project | Python | ⭐ 0 |
+| [**league-backend-challenge**](https://github.com/AnuragJ05/league-backend-challenge) | Open-source / personal project | Go | ⭐ 0 |
+| [**JainVerse**](https://github.com/AnuragJ05/JainVerse) | Open-source / personal project | JavaScript | ⭐ 0 |
+| [**python_airflow_examples**](https://github.com/AnuragJ05/python_airflow_examples) | Open-source / personal project | Python | ⭐ 0 |
+| [**vmmigrator**](https://github.com/AnuragJ05/vmmigrator) | Open-source / personal project | Go | ⭐ 0 |
+| [**genkit-chat**](https://github.com/AnuragJ05/genkit-chat) | Open-source / personal project | HTML | ⭐ 0 |
+| [**HIBP_BackEnd**](https://github.com/AnuragJ05/HIBP_BackEnd) | Open-source / personal project | Go | ⭐ 0 |
+| [**movies-database-handler**](https://github.com/AnuragJ05/movies-database-handler) | Open-source / personal project | Go | ⭐ 0 |
+| [**my-custom-terraform-project**](https://github.com/AnuragJ05/my-custom-terraform-project) | Open-source / personal project | HCL | ⭐ 0 |
+| [**my-ansible-project**](https://github.com/AnuragJ05/my-ansible-project) | Open-source / personal project | — | ⭐ 0 |
+| [**my-terraform-project**](https://github.com/AnuragJ05/my-terraform-project) | Open-source / personal project | HCL | ⭐ 0 |
+| [**url-shortener**](https://github.com/AnuragJ05/url-shortener) | Open-source / personal project | Go | ⭐ 0 |
+| [**Gin-Learnings**](https://github.com/AnuragJ05/Gin-Learnings) | Open-source / personal project | Go | ⭐ 0 |
+| [**Streamlit-Basics**](https://github.com/AnuragJ05/Streamlit-Basics) | Streamlit lets you transform Python scripts into interactive web apps in minutes | Python | ⭐ 0 |
+| [**YT-Scripting**](https://github.com/AnuragJ05/YT-Scripting) | Open-source / personal project | Python | ⭐ 0 |
+| [**TranslatePPT**](https://github.com/AnuragJ05/TranslatePPT) | Translate english PPT to hindi | Python | ⭐ 0 |
+| [**PCCAddUser**](https://github.com/AnuragJ05/PCCAddUser) | Open-source / personal project | HTML | ⭐ 0 |
+| [**Dataframe-Service**](https://github.com/AnuragJ05/Dataframe-Service) | Open-source / personal project | Go | ⭐ 0 |
+| [**GRPC-Proto**](https://github.com/AnuragJ05/GRPC-Proto) | Open-source / personal project | Go | ⭐ 0 |
+| [**Machine-Learning-Lab**](https://github.com/AnuragJ05/Machine-Learning-Lab) | Open-source / personal project | Jupyter Notebook | ⭐ 0 |
+| [**Flight-Booking**](https://github.com/AnuragJ05/Flight-Booking) | Open-source / personal project | Python | ⭐ 0 |
+| [**Personal-assistance---Jarvis**](https://github.com/AnuragJ05/Personal-assistance---Jarvis) | Open-source / personal project | Python | ⭐ 0 |
+| [**OPERATING-SYSTEM-LAB**](https://github.com/AnuragJ05/OPERATING-SYSTEM-LAB) | Open-source / personal project | C++ | ⭐ 1 |
+| [**Python-Learning**](https://github.com/AnuragJ05/Python-Learning) | Open-source / personal project | Python | ⭐ 1 |
+| [**challenge-problems**](https://github.com/AnuragJ05/challenge-problems) | Open-source / personal project | C++ | ⭐ 1 |
+| [**DATA-STRUCTURE**](https://github.com/AnuragJ05/DATA-STRUCTURE) | Open-source / personal project | C++ | ⭐ 1 |
+| [**MyPortfolio**](https://github.com/AnuragJ05/MyPortfolio) | Open-source / personal project | HTML | ⭐ 0 |
+| [**VisitingCardQRCodeGenerator**](https://github.com/AnuragJ05/VisitingCardQRCodeGenerator) | Open-source / personal project | HTML | ⭐ 0 |
+| [**Pytest-Learning**](https://github.com/AnuragJ05/Pytest-Learning) | Open-source / personal project | Python | ⭐ 0 |
+| [**GoLang-Learning**](https://github.com/AnuragJ05/GoLang-Learning) | Open-source / personal project | Go | ⭐ 0 |
+| [**Sikuli-Learning**](https://github.com/AnuragJ05/Sikuli-Learning) | Open-source / personal project | HTML | ⭐ 0 |
+| [**Flask-Learning**](https://github.com/AnuragJ05/Flask-Learning) | Open-source / personal project | Python | ⭐ 0 |
+| [**Python-Mini-Project**](https://github.com/AnuragJ05/Python-Mini-Project) | Open-source / personal project | Python | ⭐ 0 |
+| [**Git-Commands**](https://github.com/AnuragJ05/Git-Commands) | Open-source / personal project | — | ⭐ 0 |
+| [**Robotframework-udemy**](https://github.com/AnuragJ05/Robotframework-udemy) | Open-source / personal project | RobotFramework | ⭐ 0 |
+| [**Docker---Kubernetes-Commands**](https://github.com/AnuragJ05/Docker---Kubernetes-Commands) | Open-source / personal project | HTML | ⭐ 0 |
+| [**katacoda-scenarios**](https://github.com/AnuragJ05/katacoda-scenarios) | Katacoda Scenarios | — | ⭐ 0 |
+| [**Autentication-System**](https://github.com/AnuragJ05/Autentication-System) | Open-source / personal project | Python | ⭐ 0 |
+| [**Sign-Language-Converter**](https://github.com/AnuragJ05/Sign-Language-Converter) | Open-source / personal project | Python | ⭐ 0 |
+
+_Showing 41 public repositories (excluding forks and archived repositories)._ 
 
 <!-- PROJECTS:END -->
 
