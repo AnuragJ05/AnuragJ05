@@ -62,6 +62,7 @@ _Automatically generated from my public GitHub repositories._
 
 | Project | Description | Language | Stars |
 |---|---|---|---:|
+| [**Flight-Booking**](https://github.com/AnuragJ05/Flight-Booking) | Open-source / personal project | Python | ⭐ 1 |
 | [**AnuragJ05**](https://github.com/AnuragJ05/AnuragJ05) | Config files for my GitHub profile. | — | ⭐ 0 |
 | [**PDF-Accessibility-Scanner**](https://github.com/AnuragJ05/PDF-Accessibility-Scanner) | Open-source / personal project | Python | ⭐ 0 |
 | [**-humanoid-agent-platform**](https://github.com/AnuragJ05/-humanoid-agent-platform) | Open-source / personal project | Python | ⭐ 0 |
@@ -84,7 +85,6 @@ _Automatically generated from my public GitHub repositories._
 | [**Dataframe-Service**](https://github.com/AnuragJ05/Dataframe-Service) | Open-source / personal project | Go | ⭐ 0 |
 | [**GRPC-Proto**](https://github.com/AnuragJ05/GRPC-Proto) | Open-source / personal project | Go | ⭐ 0 |
 | [**Machine-Learning-Lab**](https://github.com/AnuragJ05/Machine-Learning-Lab) | Open-source / personal project | Jupyter Notebook | ⭐ 0 |
-| [**Flight-Booking**](https://github.com/AnuragJ05/Flight-Booking) | Open-source / personal project | Python | ⭐ 0 |
 | [**Personal-assistance---Jarvis**](https://github.com/AnuragJ05/Personal-assistance---Jarvis) | Open-source / personal project | Python | ⭐ 0 |
 | [**OPERATING-SYSTEM-LAB**](https://github.com/AnuragJ05/OPERATING-SYSTEM-LAB) | Open-source / personal project | C++ | ⭐ 1 |
 | [**Python-Learning**](https://github.com/AnuragJ05/Python-Learning) | Open-source / personal project | Python | ⭐ 1 |
